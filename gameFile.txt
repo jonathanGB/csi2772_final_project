@@ -1,0 +1,81 @@
+currResults
+4 2 4 3 5 
+table
+51 52 w w h b
+table
+52 53 w d b h
+table
+52 54 j j j j
+table
+53 51 b m b w
+table
+53 52 m h w w
+player
+Jonathan hare 5
+b h b d
+B B B B
+B B B B
+w m d h
+m d b w
+player
+Samuel moose 5
+m h d w
+h h m m
+h d w m
+h b d m
+d m d h
+player
+Stephanie bear 6
+w w w w
+b m d d
+h h d w
+d h b m
+w h b b
+d w d b
+deck
+45
+h h m m
+w m w m
+h b m m
+H H H H
+h m h b
+m w m w
+b w b w
+D D D D
+m m w d
+m m m m
+m h d b
+B B B B
+W W W W
+d d h h
+w m h h
+M M M M
+W W W W
+b w h m
+d b w m
+d m b b
+h h h h
+b m w h
+w b h d
+m m b w
+d m h m
+M M M M
+H H H H
+d b m w
+w w b b
+d b w w
+w b h m
+d d d d
+h b h d
+h w d d
+D D D D
+D D D D
+b b b b
+d b d b
+H H H H
+M M M M
+w m w d
+d d b b
+W W W W
+b w d h
+d d h h
